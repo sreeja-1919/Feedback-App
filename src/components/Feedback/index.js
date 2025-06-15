@@ -1,4 +1,5 @@
 // Write your React code here.
+import {Component} from 'react'
 import './index.css'
 
 class Feedback extends Component {
